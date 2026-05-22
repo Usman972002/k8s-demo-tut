@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1779432028,,"wq"
+|2,0,1779433123,,"wq"
 :q!
 |2,0,1779430287,,"q!"
 
@@ -27,36 +27,50 @@
 # Registers:
 
 # File marks:
-'0  13  16  ~/service.yaml
-|4,48,13,16,1779432028,"~/service.yaml"
-'1  7  10  ~/service.yaml
-|4,49,7,10,1779431991,"~/service.yaml"
+'0  24  0  ~/ingress.yaml
+|4,48,24,0,1779433123,"~/ingress.yaml"
+'1  13  16  ~/service.yaml
+|4,49,13,16,1779432028,"~/service.yaml"
 '2  7  10  ~/service.yaml
 |4,50,7,10,1779431991,"~/service.yaml"
-'3  13  16  ~/service.yaml
-|4,51,13,16,1779431947,"~/service.yaml"
+'3  7  10  ~/service.yaml
+|4,51,7,10,1779431991,"~/service.yaml"
 '4  13  16  ~/service.yaml
 |4,52,13,16,1779431947,"~/service.yaml"
 '5  13  16  ~/service.yaml
 |4,53,13,16,1779431947,"~/service.yaml"
-'6  29  0  ~/deployment.yaml
-|4,54,29,0,1779431529,"~/deployment.yaml"
-'7  27  30  ~/deployment.yaml
-|4,55,27,30,1779431319,"~/deployment.yaml"
-'8  28  2  ~/deployment.yaml
-|4,56,28,2,1779431319,"~/deployment.yaml"
-'9  21  25  ~/deployment.yaml
-|4,57,21,25,1779431246,"~/deployment.yaml"
+'6  13  16  ~/service.yaml
+|4,54,13,16,1779431947,"~/service.yaml"
+'7  29  0  ~/deployment.yaml
+|4,55,29,0,1779431529,"~/deployment.yaml"
+'8  27  30  ~/deployment.yaml
+|4,56,27,30,1779431319,"~/deployment.yaml"
+'9  28  2  ~/deployment.yaml
+|4,57,28,2,1779431319,"~/deployment.yaml"
 
 # Jumplist (newest first):
+-'  24  0  ~/ingress.yaml
+|4,39,24,0,1779433123,"~/ingress.yaml"
+-'  1  0  ~/ingress.yaml
+|4,39,1,0,1779432906,"~/ingress.yaml"
+-'  13  16  ~/service.yaml
+|4,39,13,16,1779432028,"~/service.yaml"
 -'  13  16  ~/service.yaml
 |4,39,13,16,1779432028,"~/service.yaml"
 -'  7  10  ~/service.yaml
 |4,39,7,10,1779432020,"~/service.yaml"
 -'  7  10  ~/service.yaml
+|4,39,7,10,1779432020,"~/service.yaml"
+-'  7  10  ~/service.yaml
+|4,39,7,10,1779431991,"~/service.yaml"
+-'  7  10  ~/service.yaml
 |4,39,7,10,1779431991,"~/service.yaml"
 -'  13  16  ~/service.yaml
 |4,39,13,16,1779431983,"~/service.yaml"
+-'  13  16  ~/service.yaml
+|4,39,13,16,1779431983,"~/service.yaml"
+-'  13  16  ~/service.yaml
+|4,39,13,16,1779431947,"~/service.yaml"
 -'  13  16  ~/service.yaml
 |4,39,13,16,1779431947,"~/service.yaml"
 -'  1  0  ~/service.yaml
@@ -65,6 +79,28 @@
 |4,39,1,0,1779431819,"~/service.yaml"
 -'  1  0  ~/service.yaml
 |4,39,1,0,1779431819,"~/service.yaml"
+-'  1  0  ~/service.yaml
+|4,39,1,0,1779431819,"~/service.yaml"
+-'  1  0  ~/service.yaml
+|4,39,1,0,1779431819,"~/service.yaml"
+-'  1  0  ~/service.yaml
+|4,39,1,0,1779431819,"~/service.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
+-'  29  0  ~/deployment.yaml
+|4,39,29,0,1779431529,"~/deployment.yaml"
 -'  29  0  ~/deployment.yaml
 |4,39,29,0,1779431529,"~/deployment.yaml"
 -'  29  0  ~/deployment.yaml
@@ -97,6 +133,38 @@
 |4,39,27,30,1779431469,"~/deployment.yaml"
 -'  27  30  ~/deployment.yaml
 |4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  27  30  ~/deployment.yaml
+|4,39,27,30,1779431469,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
+-'  28  2  ~/deployment.yaml
+|4,39,28,2,1779431319,"~/deployment.yaml"
 -'  28  2  ~/deployment.yaml
 |4,39,28,2,1779431319,"~/deployment.yaml"
 -'  28  2  ~/deployment.yaml
@@ -146,111 +214,50 @@
 -'  21  25  ~/deployment.yaml
 |4,39,21,25,1779431285,"~/deployment.yaml"
 -'  21  25  ~/deployment.yaml
-|4,39,21,25,1779431246,"~/deployment.yaml"
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
+-'  21  25  ~/deployment.yaml
+|4,39,21,25,1779431285,"~/deployment.yaml"
 -'  21  25  ~/deployment.yaml
 |4,39,21,25,1779431246,"~/deployment.yaml"
 -'  21  25  ~/deployment.yaml
 |4,39,21,25,1779431246,"~/deployment.yaml"
--'  21  25  ~/deployment.yaml
-|4,39,21,25,1779431246,"~/deployment.yaml"
--'  21  25  ~/deployment.yaml
-|4,39,21,25,1779431246,"~/deployment.yaml"
--'  21  25  ~/deployment.yaml
-|4,39,21,25,1779431246,"~/deployment.yaml"
--'  21  25  ~/deployment.yaml
-|4,39,21,25,1779431246,"~/deployment.yaml"
--'  21  25  ~/deployment.yaml
-|4,39,21,25,1779431246,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  29  0  ~/deployment.yaml
-|4,39,29,0,1779431106,"~/deployment.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
--'  3  8  ~/persistentVolumeClaim.yaml
-|4,39,3,8,1779430899,"~/persistentVolumeClaim.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/ingress.yaml
+	*	1779433122	0
+	"	24	0
+	^	24	0
+	.	24	0
+	+	24	0
 
 > ~/service.yaml
 	*	1779432028	0
