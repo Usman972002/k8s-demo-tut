@@ -1,0 +1,9 @@
+kind: DevOpsBatch
+apiVersion: itsmeusman.com/v1
+metadata:
+  name: devops-batch-2
+spec:
+  name: Devops-Zero to Hero Batch
+  duration: 3 months
+  mode: Live youtube
+
